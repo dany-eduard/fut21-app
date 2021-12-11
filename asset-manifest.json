@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fut21-app/static/css/main.009b5e49.chunk.css",
+    "main.js": "/fut21-app/static/js/main.af5da4f7.chunk.js",
+    "main.js.map": "/fut21-app/static/js/main.af5da4f7.chunk.js.map",
+    "runtime-main.js": "/fut21-app/static/js/runtime-main.ff7550f4.js",
+    "runtime-main.js.map": "/fut21-app/static/js/runtime-main.ff7550f4.js.map",
+    "static/js/2.a7b43d00.chunk.js": "/fut21-app/static/js/2.a7b43d00.chunk.js",
+    "static/js/2.a7b43d00.chunk.js.map": "/fut21-app/static/js/2.a7b43d00.chunk.js.map",
+    "static/js/3.0ae35354.chunk.js": "/fut21-app/static/js/3.0ae35354.chunk.js",
+    "static/js/3.0ae35354.chunk.js.map": "/fut21-app/static/js/3.0ae35354.chunk.js.map",
+    "index.html": "/fut21-app/index.html",
+    "static/css/main.009b5e49.chunk.css.map": "/fut21-app/static/css/main.009b5e49.chunk.css.map",
+    "static/js/2.a7b43d00.chunk.js.LICENSE.txt": "/fut21-app/static/js/2.a7b43d00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff7550f4.js",
+    "static/js/2.a7b43d00.chunk.js",
+    "static/css/main.009b5e49.chunk.css",
+    "static/js/main.af5da4f7.chunk.js"
+  ]
+}
